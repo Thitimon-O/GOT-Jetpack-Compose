@@ -89,7 +89,7 @@ private fun HospitalTitle(title: String, onImageClick: () -> Unit, onTextClick: 
             )
             Text(
                 text = title,
-                fontSize = 24.sp,
+                fontSize = 30.sp,
                 color = colorResource(R.color.purple_500),
                 modifier = Modifier
                     .align(Alignment.Center)
