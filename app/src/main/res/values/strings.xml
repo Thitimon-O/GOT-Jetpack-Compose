@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GOT Compose Test</string>
+    <string name="title_activity_hospital_detail">HospitalDetailActivity</string>
+</resources>
